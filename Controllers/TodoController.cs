@@ -15,13 +15,14 @@ namespace Todo_List_App.Controllers
         } 
 
 
+
         public IActionResult TodoList()
         {
             TodoNewModel DataTable = new TodoNewModel
             {
                 listTodoModel = _TodoTable.TodoData.ToList()
             };
-            return View(DataTable);
+            return View(DataTable); 
         }
 
 
@@ -46,7 +47,6 @@ namespace Todo_List_App.Controllers
             }
             else
             {
-                //update if have id select or clicked the edit from table
                 Todo update = _TodoTable.TodoData.Find(table.TodoModel.Id);
                 if(update != null)
                 {
