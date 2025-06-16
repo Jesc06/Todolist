@@ -1,0 +1,207 @@
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\appsettings.json
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Todo_List App.staticwebassets.runtime.json
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Todo_List App.staticwebassets.endpoints.json
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Todo_List App.exe
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Todo_List App.deps.json
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Todo_List App.runtimeconfig.json
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Todo_List App.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Todo_List App.pdb
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\Todo_List App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\Todo_List App.AssemblyInfoInputs.cache
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\Todo_List App.AssemblyInfo.cs
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\Todo_List App.csproj.CoreCompileInputs.cache
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\Todo_List App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\Todo_List App.RazorAssemblyInfo.cache
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\Todo_List App.RazorAssemblyInfo.cs
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\scopedcss\bundle\Todo_List App.styles.css
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\Todo_List App.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\refint\Todo_List App.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\Todo_List App.pdb
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\Todo_List App.genruntimeconfig.cache
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\ref\Todo_List App.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\libman.json
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\cd04mv0pm9-eyl72bq8jk.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\v22yhwgpb5-g2xsj0mv1i.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\8scpkqdc4j-g2aqnsmpns.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\2oqp83ml0j-v5uwh7yf80.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\l7301wpwjy-4qm52yng0t.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\lorxhz4hho-d8d775o77a.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\bk2xg3s3n3-m080nl3y4b.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\zcnrl1nlhx-pj15hrbvnj.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\hol31q3um5-t89q0csf24.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\zfzojfqof2-8b5520o19g.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\abatdsrrt6-dym7do3u4b.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\nmumohd139-plf49rhw4y.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\o0qfx5uycs-141il87wt7.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\fstugwemnr-bbsv7pc3nz.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\txs8uf0afy-7r2lqbpvs5.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\vhcrjd51zj-oa5yz6m4bo.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\jcj1jgba5n-17b9s8n4fa.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\sxrafefhlo-jdb144nm8j.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\h4zmq02hbq-y440rv89em.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\rq0h1ps7n8-lt5a136tnr.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\1rwfmyaxd6-6pzxcqnci2.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\1fnaestzhg-15znjpzz7s.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\na64tpp2fg-ip40et23qf.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\wgo3h5ih24-mkk416jhz6.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\mmb901szdt-p55kxrg9h7.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\ojbzpqkpv2-8cox5vu1ao.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\yf60jm74ho-xb7x6ncoc7.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\oa48jiyjz4-tutx64jgg7.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\75oefngk8r-hxp4vtxi0l.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\rs2nbs4o69-t3bs2ot4ur.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\0qs4cvucqw-f6pbo7ldz7.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\u1tjn9ioke-np1xq4o4ct.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\05cqafu5e8-uhabfa1lb8.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\jji8tsm9mv-r7czxcjr9i.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\i44xxl457n-bshnfozfav.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\zznqkhael5-a5k2t95umj.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\3yvohbz6zs-xw7l8mdbgf.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\z3rcigeiz3-kz6z0hmg4e.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\a3x3m7ipse-uekp7lnsd8.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\myy2lxu8ea-vd0ky5xz37.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\iacd34mrvj-k5fsro1exz.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\6eoleeqhl2-luujh22gf7.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\v44b4psj26-uhcwcohpr3.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\geyimssh71-dnx7euk7t5.gz
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Humanizer.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\Todo_List App.csproj.AssemblyReference.cache
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\Todo_Lis.207325D6.Up2Date
+C:\Users\escar\OneDrive\Desktop\Todo_List App\Todo_List App\obj\Debug\net9.0\compressed\hyng14i9kh-w5llswx9m1.gz

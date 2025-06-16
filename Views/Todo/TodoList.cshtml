@@ -1,0 +1,43 @@
+﻿
+@model Todo_List_App.Models.TodoNewModel
+
+<div class="card">
+
+    <h1>Todolist</h1>
+
+    <form asp-controller="Todo" asp-action="InsertTask" method="post">
+        <div class="d-flex align-items-center gap-2">
+            <input type="hidden" asp-for="TodoModel.Id">
+            <input asp-for="TodoModel.Task" type="text" class="form-control form-control-lg me-2" placeholder="Write your todo here">
+            <button type="submit" class="btn btn-primary btn-lg">Add</button>
+        </div>
+    </form>
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Task</th>
+                <th scope="col">Edit</th>
+                <th scope="col">Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var data in Model.listTodoModel)
+            {
+                <tr>
+                    <td>@data.Task</td>
+                    <td><a class="btn btn-success" asp-controller="Todo" asp-action="Edit" asp-route-GetId="@data.Id">Edit</a></td>
+                    <td>
+                        <form asp-controller="Todo" asp-route-id="@data.Id" asp-action="Delete" method="post">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+</div>
+
