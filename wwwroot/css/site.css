@@ -1,11 +1,11 @@
-﻿.card
-{
-    width:25%;
-    height: 400px;
-    background-color:transparent;
-    border:none;
-    display:inline-block;
-     
+﻿.card {
+    width: 25%;
+    min-height: 400px;
+    max-height: 600px;
+    overflow-y: auto;
+    scrollbar-width: none;
+    background-color: transparent;
+    border: none;
 }
 
 .card h1{
