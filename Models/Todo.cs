@@ -7,7 +7,6 @@ namespace Todo_List_App.Models
         [Key]
         public int Id { get; set; } 
         [Required]
-        public string Task { get; set; }
-        
+        public string Task { get; set; } 
     }
 }

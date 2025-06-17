@@ -14,8 +14,7 @@ namespace Todo_List_App.Controllers
             _TodoTable = todoTable;
         } 
 
-
-
+        //kunin yung data sa  database tapos diplay sa table
         public IActionResult TodoList()
         {
             TodoNewModel DataTable = new TodoNewModel
