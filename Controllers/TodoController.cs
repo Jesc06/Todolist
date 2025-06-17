@@ -25,32 +25,30 @@ namespace Todo_List_App.Controllers
         }
 
 
+   
         public IActionResult Edit(int GetId )
         {
-            TodoNewModel model = new TodoNewModel
-            {
-                listTodoModel = _TodoTable.TodoData.ToList()
-            };
+            TodoNewModel model = new TodoNewModel();
+           
             model.TodoModel = _TodoTable.TodoData.Find(GetId);
             return View("TodoList", model);
         }
    
 
-        [HttpPost]
-        public ActionResult InsertTask(TodoNewModel table)
-        {
 
-            if(table.TodoModel.Id == 0)
+        //Add data sa database
+        [HttpPost]
+        public ActionResult InsertTask()
+        {
+            TodoNewModel table = new TodoNewModel();
+
+            if (table.TodoModel.Id == 0)
             {
                 _TodoTable.TodoData.Add(table.TodoModel);
             }
             else
             {
-                Todo update = _TodoTable.TodoData.Find(table.TodoModel.Id);
-                if(update != null)
-                {
-                    update.Task = table.TodoModel.Task;
-                }
+                table.TodoModel  = _TodoTable.TodoData.Find(table.TodoModel.Id);
             }
             _TodoTable.SaveChanges();
             return RedirectToAction("TodoList");
