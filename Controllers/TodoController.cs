@@ -26,7 +26,7 @@ namespace Todo_List_App.Controllers
 
 
    
-        public IActionResult Edit(int GetId )
+        public IActionResult Edit(int GetId)
         {
             TodoNewModel model = new TodoNewModel();
            
